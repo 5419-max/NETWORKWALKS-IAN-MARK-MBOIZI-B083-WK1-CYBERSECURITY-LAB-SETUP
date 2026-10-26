@@ -248,4 +248,4 @@ Kali Linux: https://kali.org/get-kali
 
 👤 Author
 
-Mboizi Ian Mark Cybersecurity & Networking Student, Kampala, Uganda Networkwalks Academy: Week 01, Project 1 LinkedIn: [add your link]
+Mboizi Ian Mark Cybersecurity & Networking Student & Practitioner, Kampala, Uganda Networkwalks Academy: Week 01, Project 1 LinkedIn: https://lnkd.in/p/dY-f8kQ4
